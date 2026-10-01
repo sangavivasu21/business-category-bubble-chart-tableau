@@ -13,7 +13,7 @@ generating sales.
 The Region filter allows users to compare business performance across Central, East, South, and West regions interactively.
 
 
-2 recommendations
+2 RECOMMENDATIONS
 
 Focus on high-performing Technology sub-categories by maintaining adequate inventory and identifying opportunities to increase sales further.
 Review sub-categories with negative or relatively low profit, especially where sales are significant, and investigate pricing, discounts, and operating costs.
